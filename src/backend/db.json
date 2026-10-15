@@ -1,0 +1,1105 @@
+{
+  "contacts": [
+    {
+      "name": "Aarav Kulkarni",
+      "email": "aaravkulkarni1@example.com",
+      "photo": "https://i.pravatar.cc/300?img=1",
+      "mobile": "+91 6625644691",
+      "company": "BluePeak Technologies",
+      "designation": "Frontend Developer",
+      "group": "Friends",
+      "id": "IvIRm0NHBNc"
+    },
+    {
+      "name": "Aditi Verma",
+      "email": "aditiverma2@example.com",
+      "photo": "https://i.pravatar.cc/300?img=2",
+      "mobile": "+91 8496029389",
+      "company": "NovaByte Solutions",
+      "designation": "Software Engineer",
+      "group": "Family",
+      "id": "gIokbOiMmBE"
+    },
+    {
+      "name": "Aditya Singh",
+      "email": "adityasingh3@example.com",
+      "photo": "https://i.pravatar.cc/300?img=3",
+      "mobile": "+91 6636390476",
+      "company": "Cedar Labs",
+      "designation": "UI/UX Designer",
+      "group": "Work",
+      "id": "Su1u88rtesE"
+    },
+    {
+      "name": "Aishwarya Pillai",
+      "email": "aishwaryapillai4@example.com",
+      "photo": "https://i.pravatar.cc/300?img=4",
+      "mobile": "+91 9067873556",
+      "company": "Orbit Systems",
+      "designation": "Backend Developer",
+      "group": "Clients",
+      "id": "NUE0UB1_054"
+    },
+    {
+      "name": "Akash Patil",
+      "email": "akashpatil5@example.com",
+      "photo": "https://i.pravatar.cc/300?img=5",
+      "mobile": "+91 6083895861",
+      "company": "BrightPath Digital",
+      "designation": "Full Stack Developer",
+      "group": "Vendors",
+      "id": "TvDglRElqeA"
+    },
+    {
+      "name": "Akanksha Iyer",
+      "email": "akankshaiyer6@example.com",
+      "photo": "https://i.pravatar.cc/300?img=6",
+      "mobile": "+91 9771407979",
+      "company": "Vertex Innovations",
+      "designation": "QA Engineer",
+      "group": "College",
+      "id": "cMHUlLjL33E"
+    },
+    {
+      "name": "Aman More",
+      "email": "amanmore7@example.com",
+      "photo": "https://i.pravatar.cc/300?img=7",
+      "mobile": "+91 9052363376",
+      "company": "CloudSpring Tech",
+      "designation": "Business Analyst",
+      "group": "Networking",
+      "id": "uW9Bu2KsduQ"
+    },
+    {
+      "name": "Amara Bose",
+      "email": "amarabose8@example.com",
+      "photo": "https://i.pravatar.cc/300?img=8",
+      "mobile": "+91 7058631966",
+      "company": "PixelCraft Studio",
+      "designation": "Project Coordinator",
+      "group": "Project Alpha",
+      "id": "BuqNlYgccOo"
+    },
+    {
+      "name": "Ameya Saxena",
+      "email": "ameyasaxena9@example.com",
+      "photo": "https://i.pravatar.cc/300?img=9",
+      "mobile": "+91 6560580121",
+      "company": "Aster Analytics",
+      "designation": "Technical Lead",
+      "group": "Project Beta",
+      "id": "x3SFDGV38LE"
+    },
+    {
+      "name": "Ananya Mehta",
+      "email": "ananyamehta10@example.com",
+      "photo": "https://i.pravatar.cc/300?img=10",
+      "mobile": "+91 7200800002",
+      "company": "Northstar Software",
+      "designation": "Product Manager",
+      "group": "Personal",
+      "id": "6FUc_eTaCVM"
+    },
+    {
+      "name": "Aniket Pawar",
+      "email": "aniketpawar11@example.com",
+      "photo": "https://i.pravatar.cc/300?img=11",
+      "mobile": "+91 7666596462",
+      "company": "Greenfield Consulting",
+      "designation": "Data Analyst",
+      "group": "Friends",
+      "id": "rwJVorD6h_A"
+    },
+    {
+      "name": "Anjali Malhotra",
+      "email": "anjalimalhotra12@example.com",
+      "photo": "https://i.pravatar.cc/300?img=12",
+      "mobile": "+91 9552670516",
+      "company": "Silverline Networks",
+      "designation": "DevOps Engineer",
+      "group": "Family",
+      "id": "Mp75zN3sbCg"
+    },
+    {
+      "name": "Ankit Shetty",
+      "email": "ankitshetty13@example.com",
+      "photo": "https://i.pravatar.cc/300?img=13",
+      "mobile": "+91 8066938555",
+      "company": "MapleWorks",
+      "designation": "HR Executive",
+      "group": "Work",
+      "id": "tnXXEzPovwE"
+    },
+    {
+      "name": "Anushka Joshi",
+      "email": "anushkajoshi14@example.com",
+      "photo": "https://i.pravatar.cc/300?img=14",
+      "mobile": "+91 6131234100",
+      "company": "Summit Digital",
+      "designation": "Support Engineer",
+      "group": "Clients",
+      "id": "aZ5u-gm-gLA"
+    },
+    {
+      "name": "Arjun Gupta",
+      "email": "arjungupta15@example.com",
+      "photo": "https://i.pravatar.cc/300?img=15",
+      "mobile": "+91 7034810088",
+      "company": "UrbanStack",
+      "designation": "Mobile App Developer",
+      "group": "Vendors",
+      "id": "Dc_K4EBL31M"
+    },
+    {
+      "name": "Arnav Khan",
+      "email": "arnavkhan16@example.com",
+      "photo": "https://i.pravatar.cc/300?img=16",
+      "mobile": "+91 9847871410",
+      "company": "Redwood Systems",
+      "designation": "Cloud Engineer",
+      "group": "College",
+      "id": "AHYHjHiTUSQ"
+    },
+    {
+      "name": "Ashish Mishra",
+      "email": "ashishmishra17@example.com",
+      "photo": "https://i.pravatar.cc/300?img=17",
+      "mobile": "+91 9527703737",
+      "company": "PrismEdge Technologies",
+      "designation": "Scrum Master",
+      "group": "Networking",
+      "id": "XdB_1jUzVaU"
+    },
+    {
+      "name": "Avani Deshmukh",
+      "email": "avanideshmukh18@example.com",
+      "photo": "https://i.pravatar.cc/300?img=18",
+      "mobile": "+91 7031234678",
+      "company": "Skyward Apps",
+      "designation": "System Administrator",
+      "group": "Project Alpha",
+      "id": "aHygBoPLZWQ"
+    },
+    {
+      "name": "Bhavana Nair",
+      "email": "bhavananair19@example.com",
+      "photo": "https://i.pravatar.cc/300?img=19",
+      "mobile": "+91 9053645595",
+      "company": "CoreBridge Solutions",
+      "designation": "Associate Consultant",
+      "group": "Project Beta",
+      "id": "jbYCdinbdEc"
+    },
+    {
+      "name": "Chetan Chavan",
+      "email": "chetanchavan20@example.com",
+      "photo": "https://i.pravatar.cc/300?img=20",
+      "mobile": "+91 9978483442",
+      "company": "Evergreen IT",
+      "designation": "Engineering Manager",
+      "group": "Personal",
+      "id": "xPDHr7iGxKI"
+    },
+    {
+      "name": "Chaitanya Menon",
+      "email": "chaitanyamenon21@example.com",
+      "photo": "https://i.pravatar.cc/300?img=21",
+      "mobile": "+91 8211641671",
+      "company": "BluePeak Technologies",
+      "designation": "Frontend Developer",
+      "group": "Friends",
+      "id": "nk2zIM86l8o"
+    },
+    {
+      "name": "Deepa Sharma",
+      "email": "deepasharma22@example.com",
+      "photo": "https://i.pravatar.cc/300?img=22",
+      "mobile": "+91 6374957032",
+      "company": "NovaByte Solutions",
+      "designation": "Software Engineer",
+      "group": "Family",
+      "id": "sPFJFM5mp5M"
+    },
+    {
+      "name": "Deepak Reddy",
+      "email": "deepakreddy23@example.com",
+      "photo": "https://i.pravatar.cc/300?img=23",
+      "mobile": "+91 8190512831",
+      "company": "Cedar Labs",
+      "designation": "UI/UX Designer",
+      "group": "Work",
+      "id": "V7bc_ALZKaQ"
+    },
+    {
+      "name": "Dev Kadam",
+      "email": "devkadam24@example.com",
+      "photo": "https://i.pravatar.cc/300?img=24",
+      "mobile": "+91 6224899942",
+      "company": "Orbit Systems",
+      "designation": "Backend Developer",
+      "group": "Clients",
+      "id": "Dx0bZWHI7tU"
+    },
+    {
+      "name": "Diya Kapoor",
+      "email": "diyakapoor25@example.com",
+      "photo": "https://i.pravatar.cc/300?img=25",
+      "mobile": "+91 7193176147",
+      "company": "BrightPath Digital",
+      "designation": "Full Stack Developer",
+      "group": "Vendors",
+      "id": "QImXplPd4sw"
+    },
+    {
+      "name": "Esha Naik",
+      "email": "eshanaik26@example.com",
+      "photo": "https://i.pravatar.cc/300?img=26",
+      "mobile": "+91 9865720627",
+      "company": "Vertex Innovations",
+      "designation": "QA Engineer",
+      "group": "College",
+      "id": "72PiH6qjGxo"
+    },
+    {
+      "name": "Farhan Shah",
+      "email": "farhanshah27@example.com",
+      "photo": "https://i.pravatar.cc/300?img=27",
+      "mobile": "+91 8459198373",
+      "company": "CloudSpring Tech",
+      "designation": "Business Analyst",
+      "group": "Networking",
+      "id": "aalEvbB_fVg"
+    },
+    {
+      "name": "Gaurav Jadhav",
+      "email": "gauravjadhav28@example.com",
+      "photo": "https://i.pravatar.cc/300?img=28",
+      "mobile": "+91 6191451571",
+      "company": "PixelCraft Studio",
+      "designation": "Project Coordinator",
+      "group": "Project Alpha",
+      "id": "1yE26KL1wnY"
+    },
+    {
+      "name": "Gayatri Das",
+      "email": "gayatridas29@example.com",
+      "photo": "https://i.pravatar.cc/300?img=29",
+      "mobile": "+91 9648305186",
+      "company": "Aster Analytics",
+      "designation": "Technical Lead",
+      "group": "Project Beta",
+      "id": "RHRl62Tv84Y"
+    },
+    {
+      "name": "Harsh Rao",
+      "email": "harshrao30@example.com",
+      "photo": "https://i.pravatar.cc/300?img=30",
+      "mobile": "+91 8517270746",
+      "company": "Northstar Software",
+      "designation": "Product Manager",
+      "group": "Personal",
+      "id": "iLD8KIRCOC4"
+    },
+    {
+      "name": "Isha Kulkarni",
+      "email": "ishakulkarni31@example.com",
+      "photo": "https://i.pravatar.cc/300?img=31",
+      "mobile": "+91 8232429276",
+      "company": "Greenfield Consulting",
+      "designation": "Data Analyst",
+      "group": "Friends",
+      "id": "7XpwY6g2wjk"
+    },
+    {
+      "name": "Ishaan Verma",
+      "email": "ishaanverma32@example.com",
+      "photo": "https://i.pravatar.cc/300?img=32",
+      "mobile": "+91 7354783835",
+      "company": "Silverline Networks",
+      "designation": "DevOps Engineer",
+      "group": "Family",
+      "id": "6bHOgzYdAEY"
+    },
+    {
+      "name": "Janhavi Singh",
+      "email": "janhavisingh33@example.com",
+      "photo": "https://i.pravatar.cc/300?img=33",
+      "mobile": "+91 7771368336",
+      "company": "MapleWorks",
+      "designation": "HR Executive",
+      "group": "Work",
+      "id": "tbv6UiHM97k"
+    },
+    {
+      "name": "Karan Pillai",
+      "email": "karanpillai34@example.com",
+      "photo": "https://i.pravatar.cc/300?img=34",
+      "mobile": "+91 8120995091",
+      "company": "Summit Digital",
+      "designation": "Support Engineer",
+      "group": "Clients",
+      "id": "pP_vcfrhpsw"
+    },
+    {
+      "name": "Kavya Patil",
+      "email": "kavyapatil35@example.com",
+      "photo": "https://i.pravatar.cc/300?img=35",
+      "mobile": "+91 8079274235",
+      "company": "UrbanStack",
+      "designation": "Mobile App Developer",
+      "group": "Vendors",
+      "id": "6EtSNixwKlk"
+    },
+    {
+      "name": "Kiran Iyer",
+      "email": "kiraniyer36@example.com",
+      "photo": "https://i.pravatar.cc/300?img=36",
+      "mobile": "+91 8875631084",
+      "company": "Redwood Systems",
+      "designation": "Cloud Engineer",
+      "group": "College",
+      "id": "8yiYHYIU78U"
+    },
+    {
+      "name": "Krishna More",
+      "email": "krishnamore37@example.com",
+      "photo": "https://i.pravatar.cc/300?img=37",
+      "mobile": "+91 8472682297",
+      "company": "PrismEdge Technologies",
+      "designation": "Scrum Master",
+      "group": "Networking",
+      "id": "B-FeQm7UIoA"
+    },
+    {
+      "name": "Lakshmi Bose",
+      "email": "lakshmibose38@example.com",
+      "photo": "https://i.pravatar.cc/300?img=38",
+      "mobile": "+91 6310812082",
+      "company": "Skyward Apps",
+      "designation": "System Administrator",
+      "group": "Project Alpha",
+      "id": "fgu6RKTreRI"
+    },
+    {
+      "name": "Madhav Saxena",
+      "email": "madhavsaxena39@example.com",
+      "photo": "https://i.pravatar.cc/300?img=39",
+      "mobile": "+91 6830802731",
+      "company": "CoreBridge Solutions",
+      "designation": "Associate Consultant",
+      "group": "Project Beta",
+      "id": "0f5wwjXmmMI"
+    },
+    {
+      "name": "Manish Mehta",
+      "email": "manishmehta40@example.com",
+      "photo": "https://i.pravatar.cc/300?img=40",
+      "mobile": "+91 6006486113",
+      "company": "Evergreen IT",
+      "designation": "Engineering Manager",
+      "group": "Personal",
+      "id": "ETMRprr6b9E"
+    },
+    {
+      "name": "Meera Pawar",
+      "email": "meerapawar41@example.com",
+      "photo": "https://i.pravatar.cc/300?img=41",
+      "mobile": "+91 9313957836",
+      "company": "BluePeak Technologies",
+      "designation": "Frontend Developer",
+      "group": "Friends",
+      "id": "F8fXHQQlB4E"
+    },
+    {
+      "name": "Mihir Malhotra",
+      "email": "mihirmalhotra42@example.com",
+      "photo": "https://i.pravatar.cc/300?img=42",
+      "mobile": "+91 8221876329",
+      "company": "NovaByte Solutions",
+      "designation": "Software Engineer",
+      "group": "Family",
+      "id": "KbUaDT5QyUM"
+    },
+    {
+      "name": "Mira Shetty",
+      "email": "mirashetty43@example.com",
+      "photo": "https://i.pravatar.cc/300?img=43",
+      "mobile": "+91 8502198289",
+      "company": "Cedar Labs",
+      "designation": "UI/UX Designer",
+      "group": "Work",
+      "id": "HD7TKfuMNqM"
+    },
+    {
+      "name": "Mohit Joshi",
+      "email": "mohitjoshi44@example.com",
+      "photo": "https://i.pravatar.cc/300?img=44",
+      "mobile": "+91 9892834495",
+      "company": "Orbit Systems",
+      "designation": "Backend Developer",
+      "group": "Clients",
+      "id": "DyRUfsnjrhg"
+    },
+    {
+      "name": "Nandini Gupta",
+      "email": "nandinigupta45@example.com",
+      "photo": "https://i.pravatar.cc/300?img=45",
+      "mobile": "+91 7925293085",
+      "company": "BrightPath Digital",
+      "designation": "Full Stack Developer",
+      "group": "Vendors",
+      "id": "GIbqDFetJFc"
+    },
+    {
+      "name": "Neha Khan",
+      "email": "nehakhan46@example.com",
+      "photo": "https://i.pravatar.cc/300?img=46",
+      "mobile": "+91 9738664747",
+      "company": "Vertex Innovations",
+      "designation": "QA Engineer",
+      "group": "College",
+      "id": "__rIxtmj6OA"
+    },
+    {
+      "name": "Nikhil Mishra",
+      "email": "nikhilmishra47@example.com",
+      "photo": "https://i.pravatar.cc/300?img=47",
+      "mobile": "+91 6572670186",
+      "company": "CloudSpring Tech",
+      "designation": "Business Analyst",
+      "group": "Networking",
+      "id": "dgbc_Sq8tH4"
+    },
+    {
+      "name": "Nisha Deshmukh",
+      "email": "nishadeshmukh48@example.com",
+      "photo": "https://i.pravatar.cc/300?img=48",
+      "mobile": "+91 8599485485",
+      "company": "PixelCraft Studio",
+      "designation": "Project Coordinator",
+      "group": "Project Alpha",
+      "id": "yOdy_91WN8Y"
+    },
+    {
+      "name": "Omkar Nair",
+      "email": "omkarnair49@example.com",
+      "photo": "https://i.pravatar.cc/300?img=49",
+      "mobile": "+91 7733026829",
+      "company": "Aster Analytics",
+      "designation": "Technical Lead",
+      "group": "Project Beta",
+      "id": "-u0KWxtzMZA"
+    },
+    {
+      "name": "Pallavi Chavan",
+      "email": "pallavichavan50@example.com",
+      "photo": "https://i.pravatar.cc/300?img=50",
+      "mobile": "+91 6305404418",
+      "company": "Northstar Software",
+      "designation": "Product Manager",
+      "group": "Personal",
+      "id": "pKYBvgam-aE"
+    },
+    {
+      "name": "Parth Menon",
+      "email": "parthmenon51@example.com",
+      "photo": "https://i.pravatar.cc/300?img=51",
+      "mobile": "+91 9538225179",
+      "company": "Greenfield Consulting",
+      "designation": "Data Analyst",
+      "group": "Friends",
+      "id": "hFLDK8lg8xA"
+    },
+    {
+      "name": "Pranav Sharma",
+      "email": "pranavsharma52@example.com",
+      "photo": "https://i.pravatar.cc/300?img=52",
+      "mobile": "+91 9034711093",
+      "company": "Silverline Networks",
+      "designation": "DevOps Engineer",
+      "group": "Family",
+      "id": "mPxTP_M4EQ0"
+    },
+    {
+      "name": "Priya Reddy",
+      "email": "priyareddy53@example.com",
+      "photo": "https://i.pravatar.cc/300?img=53",
+      "mobile": "+91 9248255628",
+      "company": "MapleWorks",
+      "designation": "HR Executive",
+      "group": "Work",
+      "id": "WFv2g8Ab_fQ"
+    },
+    {
+      "name": "Rahul Kadam",
+      "email": "rahulkadam54@example.com",
+      "photo": "https://i.pravatar.cc/300?img=54",
+      "mobile": "+91 8106729291",
+      "company": "Summit Digital",
+      "designation": "Support Engineer",
+      "group": "Clients",
+      "id": "jOFilMDOcgA"
+    },
+    {
+      "name": "Rhea Kapoor",
+      "email": "rheakapoor55@example.com",
+      "photo": "https://i.pravatar.cc/300?img=55",
+      "mobile": "+91 6872489561",
+      "company": "UrbanStack",
+      "designation": "Mobile App Developer",
+      "group": "Vendors",
+      "id": "jMfdPpcVsjM"
+    },
+    {
+      "name": "Rohan Naik",
+      "email": "rohannaik56@example.com",
+      "photo": "https://i.pravatar.cc/300?img=56",
+      "mobile": "+91 8494887623",
+      "company": "Redwood Systems",
+      "designation": "Cloud Engineer",
+      "group": "College",
+      "id": "CxJHkhGU6vw"
+    },
+    {
+      "name": "Rohit Shah",
+      "email": "rohitshah57@example.com",
+      "photo": "https://i.pravatar.cc/300?img=57",
+      "mobile": "+91 8094996911",
+      "company": "PrismEdge Technologies",
+      "designation": "Scrum Master",
+      "group": "Networking",
+      "id": "KWYFxYVym9E"
+    },
+    {
+      "name": "Sahil Jadhav",
+      "email": "sahiljadhav58@example.com",
+      "photo": "https://i.pravatar.cc/300?img=58",
+      "mobile": "+91 8626988359",
+      "company": "Skyward Apps",
+      "designation": "System Administrator",
+      "group": "Project Alpha",
+      "id": "0bldgHhTLVc"
+    },
+    {
+      "name": "Sakshi Das",
+      "email": "sakshidas59@example.com",
+      "photo": "https://i.pravatar.cc/300?img=59",
+      "mobile": "+91 8938841251",
+      "company": "CoreBridge Solutions",
+      "designation": "Associate Consultant",
+      "group": "Project Beta",
+      "id": "OWvjXJp2Z_c"
+    },
+    {
+      "name": "Sameer Rao",
+      "email": "sameerrao60@example.com",
+      "photo": "https://i.pravatar.cc/300?img=60",
+      "mobile": "+91 7694449993",
+      "company": "Evergreen IT",
+      "designation": "Engineering Manager",
+      "group": "Personal",
+      "id": "S9tGbcx-KXc"
+    },
+    {
+      "name": "Sanika Kulkarni",
+      "email": "sanikakulkarni61@example.com",
+      "photo": "https://i.pravatar.cc/300?img=61",
+      "mobile": "+91 6526292468",
+      "company": "BluePeak Technologies",
+      "designation": "Frontend Developer",
+      "group": "Friends",
+      "id": "dpuQRl5pNzI"
+    },
+    {
+      "name": "Sanjana Verma",
+      "email": "sanjanaverma62@example.com",
+      "photo": "https://i.pravatar.cc/300?img=62",
+      "mobile": "+91 8225695309",
+      "company": "NovaByte Solutions",
+      "designation": "Software Engineer",
+      "group": "Family",
+      "id": "sXLXmp7_QyM"
+    },
+    {
+      "name": "Saurabh Singh",
+      "email": "saurabhsingh63@example.com",
+      "photo": "https://i.pravatar.cc/300?img=63",
+      "mobile": "+91 6230657641",
+      "company": "Cedar Labs",
+      "designation": "UI/UX Designer",
+      "group": "Work",
+      "id": "tlVGUELb6aI"
+    },
+    {
+      "name": "Shreya Pillai",
+      "email": "shreyapillai64@example.com",
+      "photo": "https://i.pravatar.cc/300?img=64",
+      "mobile": "+91 8325384130",
+      "company": "Orbit Systems",
+      "designation": "Backend Developer",
+      "group": "Clients",
+      "id": "ulxrGPXM8sw"
+    },
+    {
+      "name": "Siddharth Patil",
+      "email": "siddharthpatil65@example.com",
+      "photo": "https://i.pravatar.cc/300?img=65",
+      "mobile": "+91 6409460268",
+      "company": "BrightPath Digital",
+      "designation": "Full Stack Developer",
+      "group": "Vendors",
+      "id": "uKgo8_SYw3o"
+    },
+    {
+      "name": "Sneha Iyer",
+      "email": "snehaiyer66@example.com",
+      "photo": "https://i.pravatar.cc/300?img=66",
+      "mobile": "+91 6072262865",
+      "company": "Vertex Innovations",
+      "designation": "QA Engineer",
+      "group": "College",
+      "id": "PN2JMIUCZCw"
+    },
+    {
+      "name": "Soham More",
+      "email": "sohammore67@example.com",
+      "photo": "https://i.pravatar.cc/300?img=67",
+      "mobile": "+91 6767572290",
+      "company": "CloudSpring Tech",
+      "designation": "Business Analyst",
+      "group": "Networking",
+      "id": "MkxygR0YNiM"
+    },
+    {
+      "name": "Sonal Bose",
+      "email": "sonalbose68@example.com",
+      "photo": "https://i.pravatar.cc/300?img=68",
+      "mobile": "+91 6982812662",
+      "company": "PixelCraft Studio",
+      "designation": "Project Coordinator",
+      "group": "Project Alpha",
+      "id": "jJyP8ejp_vE"
+    },
+    {
+      "name": "Tanvi Saxena",
+      "email": "tanvisaxena69@example.com",
+      "photo": "https://i.pravatar.cc/300?img=69",
+      "mobile": "+91 9202154236",
+      "company": "Aster Analytics",
+      "designation": "Technical Lead",
+      "group": "Project Beta",
+      "id": "urn7UD6RzwI"
+    },
+    {
+      "name": "Tara Mehta",
+      "email": "taramehta70@example.com",
+      "photo": "https://i.pravatar.cc/300?img=70",
+      "mobile": "+91 7097482241",
+      "company": "Northstar Software",
+      "designation": "Product Manager",
+      "group": "Personal",
+      "id": "FFCpickjvVE"
+    },
+    {
+      "name": "Tejas Pawar",
+      "email": "tejaspawar71@example.com",
+      "photo": "https://i.pravatar.cc/300?img=1",
+      "mobile": "+91 9381863077",
+      "company": "Greenfield Consulting",
+      "designation": "Data Analyst",
+      "group": "Friends",
+      "id": "Ervd9PG_Oa4"
+    },
+    {
+      "name": "Uma Malhotra",
+      "email": "umamalhotra72@example.com",
+      "photo": "https://i.pravatar.cc/300?img=2",
+      "mobile": "+91 9356767313",
+      "company": "Silverline Networks",
+      "designation": "DevOps Engineer",
+      "group": "Family",
+      "id": "pu7qAkCBQdo"
+    },
+    {
+      "name": "Vaibhav Shetty",
+      "email": "vaibhavshetty73@example.com",
+      "photo": "https://i.pravatar.cc/300?img=3",
+      "mobile": "+91 7514061274",
+      "company": "MapleWorks",
+      "designation": "HR Executive",
+      "group": "Work",
+      "id": "ig3D4M2SMNU"
+    },
+    {
+      "name": "Varsha Joshi",
+      "email": "varshajoshi74@example.com",
+      "photo": "https://i.pravatar.cc/300?img=4",
+      "mobile": "+91 7392113673",
+      "company": "Summit Digital",
+      "designation": "Support Engineer",
+      "group": "Clients",
+      "id": "S-tDkrTmIbE"
+    },
+    {
+      "name": "Vedant Gupta",
+      "email": "vedantgupta75@example.com",
+      "photo": "https://i.pravatar.cc/300?img=5",
+      "mobile": "+91 9453596289",
+      "company": "UrbanStack",
+      "designation": "Mobile App Developer",
+      "group": "Vendors",
+      "id": "gGK1tvxDQ_k"
+    },
+    {
+      "name": "Vikram Khan",
+      "email": "vikramkhan76@example.com",
+      "photo": "https://i.pravatar.cc/300?img=6",
+      "mobile": "+91 7906791089",
+      "company": "Redwood Systems",
+      "designation": "Cloud Engineer",
+      "group": "College",
+      "id": "VvqYOWAS_IU"
+    },
+    {
+      "name": "Yash Mishra",
+      "email": "yashmishra77@example.com",
+      "photo": "https://i.pravatar.cc/300?img=7",
+      "mobile": "+91 6127556961",
+      "company": "PrismEdge Technologies",
+      "designation": "Scrum Master",
+      "group": "Networking",
+      "id": "amyBcAzQ024"
+    },
+    {
+      "name": "Zoya Deshmukh",
+      "email": "zoyadeshmukh78@example.com",
+      "photo": "https://i.pravatar.cc/300?img=8",
+      "mobile": "+91 6931133007",
+      "company": "Skyward Apps",
+      "designation": "System Administrator",
+      "group": "Project Alpha",
+      "id": "LOojAAoD1XU"
+    },
+    {
+      "name": "Ananya Nair",
+      "email": "ananyanair79@example.com",
+      "photo": "https://i.pravatar.cc/300?img=9",
+      "mobile": "+91 6483931578",
+      "company": "CoreBridge Solutions",
+      "designation": "Associate Consultant",
+      "group": "Project Beta",
+      "id": "uA3mtfrnnnQ"
+    },
+    {
+      "name": "Kabir Chavan",
+      "email": "kabirchavan80@example.com",
+      "photo": "https://i.pravatar.cc/300?img=10",
+      "mobile": "+91 9871919047",
+      "company": "Evergreen IT",
+      "designation": "Engineering Manager",
+      "group": "Personal",
+      "id": "usWggppRc5g"
+    },
+    {
+      "name": "Ritu Menon",
+      "email": "ritumenon81@example.com",
+      "photo": "https://i.pravatar.cc/300?img=11",
+      "mobile": "+91 6619505248",
+      "company": "BluePeak Technologies",
+      "designation": "Frontend Developer",
+      "group": "Friends",
+      "id": "RrM9ee6ybuI"
+    },
+    {
+      "name": "Suresh Sharma",
+      "email": "sureshsharma82@example.com",
+      "photo": "https://i.pravatar.cc/300?img=12",
+      "mobile": "+91 8495126473",
+      "company": "NovaByte Solutions",
+      "designation": "Software Engineer",
+      "group": "Family",
+      "id": "-mdeKeR3pfw"
+    },
+    {
+      "name": "Pooja Reddy",
+      "email": "poojareddy83@example.com",
+      "photo": "https://i.pravatar.cc/300?img=13",
+      "mobile": "+91 7941608111",
+      "company": "Cedar Labs",
+      "designation": "UI/UX Designer",
+      "group": "Work",
+      "id": "AcKRx1b8nr0"
+    },
+    {
+      "name": "Raj Kadam",
+      "email": "rajkadam84@example.com",
+      "photo": "https://i.pravatar.cc/300?img=14",
+      "mobile": "+91 6463617489",
+      "company": "Orbit Systems",
+      "designation": "Backend Developer",
+      "group": "Clients",
+      "id": "6PR4B9JLS0E"
+    },
+    {
+      "name": "Simran Kapoor",
+      "email": "simrankapoor85@example.com",
+      "photo": "https://i.pravatar.cc/300?img=15",
+      "mobile": "+91 7185058429",
+      "company": "BrightPath Digital",
+      "designation": "Full Stack Developer",
+      "group": "Vendors",
+      "id": "C1m7jwoN4Og"
+    },
+    {
+      "name": "Vivek Naik",
+      "email": "viveknaik86@example.com",
+      "photo": "https://i.pravatar.cc/300?img=16",
+      "mobile": "+91 9866432126",
+      "company": "Vertex Innovations",
+      "designation": "QA Engineer",
+      "group": "College",
+      "id": "YBRx1AofXHo"
+    },
+    {
+      "name": "Ira Shah",
+      "email": "irashah87@example.com",
+      "photo": "https://i.pravatar.cc/300?img=17",
+      "mobile": "+91 7470165815",
+      "company": "CloudSpring Tech",
+      "designation": "Business Analyst",
+      "group": "Networking",
+      "id": "C6PXqkEgo_A"
+    },
+    {
+      "name": "Nitin Jadhav",
+      "email": "nitinjadhav88@example.com",
+      "photo": "https://i.pravatar.cc/300?img=18",
+      "mobile": "+91 7508553532",
+      "company": "PixelCraft Studio",
+      "designation": "Project Coordinator",
+      "group": "Project Alpha",
+      "id": "rO1zPYbKuDM"
+    },
+    {
+      "name": "Maya Das",
+      "email": "mayadas89@example.com",
+      "photo": "https://i.pravatar.cc/300?img=19",
+      "mobile": "+91 9391580692",
+      "company": "Aster Analytics",
+      "designation": "Technical Lead",
+      "group": "Project Beta",
+      "id": "iW8xhpxgOs8"
+    },
+    {
+      "name": "Aryan Rao",
+      "email": "aryanrao90@example.com",
+      "photo": "https://i.pravatar.cc/300?img=20",
+      "mobile": "+91 8076328764",
+      "company": "Northstar Software",
+      "designation": "Product Manager",
+      "group": "Personal",
+      "id": "YixivDyP6Uo"
+    },
+    {
+      "name": "Rashmi Kulkarni",
+      "email": "rashmikulkarni91@example.com",
+      "photo": "https://i.pravatar.cc/300?img=21",
+      "mobile": "+91 6320349863",
+      "company": "Greenfield Consulting",
+      "designation": "Data Analyst",
+      "group": "Friends",
+      "id": "NivdPvl5GOs"
+    },
+    {
+      "name": "Pratik Verma",
+      "email": "pratikverma92@example.com",
+      "photo": "https://i.pravatar.cc/300?img=22",
+      "mobile": "+91 9260632625",
+      "company": "Silverline Networks",
+      "designation": "DevOps Engineer",
+      "group": "Family",
+      "id": "9HE2X-1joRg"
+    },
+    {
+      "name": "Swati Singh",
+      "email": "swatisingh93@example.com",
+      "photo": "https://i.pravatar.cc/300?img=23",
+      "mobile": "+91 7603466699",
+      "company": "MapleWorks",
+      "designation": "HR Executive",
+      "group": "Work",
+      "id": "EGN66iYR_gM"
+    },
+    {
+      "name": "Abhishek Pillai",
+      "email": "abhishekpillai94@example.com",
+      "photo": "https://i.pravatar.cc/300?img=24",
+      "mobile": "+91 8412881504",
+      "company": "Summit Digital",
+      "designation": "Support Engineer",
+      "group": "Clients",
+      "id": "CgfJZY84ymk"
+    },
+    {
+      "name": "Nikita Patil",
+      "email": "nikitapatil95@example.com",
+      "photo": "https://i.pravatar.cc/300?img=25",
+      "mobile": "+91 9499932497",
+      "company": "UrbanStack",
+      "designation": "Mobile App Developer",
+      "group": "Vendors",
+      "id": "-9xZRSZhZJo"
+    },
+    {
+      "name": "Jay Iyer",
+      "email": "jayiyer96@example.com",
+      "photo": "https://i.pravatar.cc/300?img=26",
+      "mobile": "+91 8557733475",
+      "company": "Redwood Systems",
+      "designation": "Cloud Engineer",
+      "group": "College",
+      "id": "gR3vp00p8VQ"
+    },
+    {
+      "name": "Asha More",
+      "email": "ashamore97@example.com",
+      "photo": "https://i.pravatar.cc/300?img=27",
+      "mobile": "+91 8789149379",
+      "company": "PrismEdge Technologies",
+      "designation": "Scrum Master",
+      "group": "Networking",
+      "id": "E87bRSE2gHw"
+    },
+    {
+      "name": "Ravi Bose",
+      "email": "ravibose98@example.com",
+      "photo": "https://i.pravatar.cc/300?img=28",
+      "mobile": "+91 8318752498",
+      "company": "Skyward Apps",
+      "designation": "System Administrator",
+      "group": "Project Alpha",
+      "id": "IyLd0Edd6nI"
+    },
+    {
+      "name": "Nupur Saxena",
+      "email": "nupursaxena99@example.com",
+      "photo": "https://i.pravatar.cc/300?img=29",
+      "mobile": "+91 6227541483",
+      "company": "CoreBridge Solutions",
+      "designation": "Associate Consultant",
+      "group": "Project Beta",
+      "id": "MA9G5gBiqco"
+    },
+    {
+      "name": "Gangubai",
+      "email": "gangubai100@example.com",
+      "photo": "https://i.pravatar.cc/300?img=30",
+      "mobile": "+91 7478524369",
+      "company": "Evergreen IT",
+      "designation": "Engineering Manager",
+      "group": "Personal",
+      "id": "EJTz2ZnpqBE"
+    },
+    {
+      "name": "ajay",
+      "email": "ajay@123.com",
+      "mobile": "7878787878",
+      "company": "tyss",
+      "group": "Social",
+      "designation": "Sr software engg",
+      "photo": "hhhhhhhhhhhhh",
+      "id": "bRhlyzfPLu0"
+    },
+    {
+      "name": "ajay",
+      "email": "ajay@123.com",
+      "mobile": "7878787878",
+      "company": "tyss",
+      "group": "Social",
+      "designation": "Sr software engg",
+      "photo": "hhhhhhhhhhhhh",
+      "id": "OljO2l4OvH0"
+    },
+    {
+      "name": "",
+      "email": "",
+      "mobile": "",
+      "company": "",
+      "group": "",
+      "designation": "",
+      "photo": "",
+      "id": "KlyOT8RB43Y"
+    },
+    {
+      "name": "",
+      "email": "",
+      "mobile": "",
+      "company": "",
+      "group": "",
+      "designation": "",
+      "photo": "",
+      "id": "3u1i6JvVNk0"
+    },
+    {
+      "name": "",
+      "email": "",
+      "mobile": "",
+      "company": "",
+      "group": "",
+      "designation": "",
+      "photo": "",
+      "id": "H9lopzDDRJ0"
+    },
+    {
+      "name": "",
+      "email": "",
+      "mobile": "",
+      "company": "",
+      "group": "",
+      "designation": "",
+      "photo": "",
+      "id": "7JFcjUCnRNs"
+    },
+    {
+      "name": "",
+      "email": "",
+      "mobile": "",
+      "company": "",
+      "group": "",
+      "designation": "",
+      "photo": "",
+      "id": "vpqd_7SfZOA"
+    },
+    {
+      "name": "ajay",
+      "email": "ajay@123.com",
+      "mobile": "7878787889",
+      "company": "tyss",
+      "group": "Social",
+      "designation": "Sr software engg",
+      "photo": "hhhhhhhhhhhhh",
+      "id": "7F0KAoM8J10"
+    },
+    {
+      "name": "ajay",
+      "email": "ajay@123.com",
+      "mobile": "7878787889",
+      "company": "tyss",
+      "group": "Social",
+      "designation": "Sr software engg",
+      "photo": "hhhhhhhhhhhhh",
+      "id": "LVNYCY5uiuM"
+    },
+    {
+      "name": "ajay",
+      "email": "ajay@123.com",
+      "mobile": "7878787889",
+      "company": "tyss",
+      "group": "Social",
+      "designation": "Sr software engg",
+      "photo": "hhhhhhhhhhhhh",
+      "id": "OmL-_5BWLZk"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
