@@ -4,6 +4,7 @@ import ContactList from "../compoenets/contact list/ContactList";
 import AddContact from "../compoenets/add contacts/AddContact";
 import EditContact from "../compoenets/edit contact/EditContact";
 import ViewContact from "../compoenets/view contact/ViewContact";
+import PageNotFound from "../relative and nested routing/PageNotFound";
 
 let router=createBrowserRouter([
     {
@@ -28,6 +29,10 @@ let router=createBrowserRouter([
                 element:<ViewContact/>
             },
         ]
+    },
+    {
+        path:"*",
+        element:<PageNotFound/>
     }
 ])
 

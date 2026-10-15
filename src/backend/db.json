@@ -1,8 +1,8 @@
 {
   "contacts": [
     {
-      "name": "Aarav Kulkarni",
-      "email": "aaravkulkarni1@example.com",
+      "name": "Aarav Sharma",
+      "email": "aaravkulkarni1@gmail.com",
       "photo": "https://i.pravatar.cc/300?img=1",
       "mobile": "+91 6625644691",
       "company": "BluePeak Technologies",
@@ -141,13 +141,13 @@
       "id": "aZ5u-gm-gLA"
     },
     {
-      "name": "Arjun Gupta",
-      "email": "arjungupta15@example.com",
+      "name": "Gangubai Shaktiman",
+      "email": "gangunshakti15@example.com",
       "photo": "https://i.pravatar.cc/300?img=15",
       "mobile": "+91 7034810088",
       "company": "UrbanStack",
-      "designation": "Mobile App Developer",
-      "group": "Vendors",
+      "designation": "Actress",
+      "group": "Television",
       "id": "Dc_K4EBL31M"
     },
     {

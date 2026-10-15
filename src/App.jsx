@@ -8,8 +8,8 @@ function App() {
     //    <Router/>
     // </BrowserRouter>
     <>
-      {/* <RouterProvider router={router}/> */}
-      <RouterProvider router={nestedRouter}/>
+      <RouterProvider router={router}/>
+      {/* <RouterProvider router={nestedRouter}/> */}
     </>
   )
 }
