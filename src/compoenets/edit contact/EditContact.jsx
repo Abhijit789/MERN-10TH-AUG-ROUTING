@@ -2,6 +2,8 @@ import { useNavigate, useParams } from "react-router-dom"
 import API from "../../axios configuration/axiosConfig";
 import { useEffect, useState } from "react";
 import ContactList from "../contact list/ContactList";
+import Spinner from "../common ui components/Spinner";
+import { headingText } from "../common ui components/textConstatnt";
 
 function EditContact() {
    let{id}=useParams();
@@ -49,12 +51,14 @@ function EditContact() {
         try{
             setLoading(true)
             let res=await API.put(`contacts/${id}`,contact);
-            if(res.status===201){
+            if(res.status===200 || res.status===201){
                 setContact(res.data)
                 setLoading(false)
-                
+                navigate("/",{replace:true})
+            }else{
+                throw new Error("data is not updated!")
             }
-            
+
         }catch(err){
             console.log(err.message);
             setLoading(false)
@@ -78,13 +82,13 @@ function EditContact() {
      <div className="container">
         <div className="row">
                 <div className="col my-2">
-                        <p className="text-success fw-bold">Edit Contact </p>
+                        <p className="text-success fw-bold">{headingText.editContact}</p>
                         <p className="fst-italic">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Unde nisi ea, blanditiis excepturi nemo error pariatur eius fuga nesciunt corrupti ipsa odio minima quaerat iusto harum incidunt quae voluptas praesentium?</p>
                 </div>
             
         </div>
         {
-            loading?"Loading...":<div className="row">
+            loading?<Spinner/>:<div className="row">
             <div className="col-5">
                 <form action="" onSubmit={updateContact}>
                     <div className="mb-2"><input className="form-control" onChange={handleChange} value={name} type="text" name="name" placeholder="Name" id="" /></div>

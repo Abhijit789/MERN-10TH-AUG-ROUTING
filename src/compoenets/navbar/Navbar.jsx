@@ -1,5 +1,6 @@
 import {Link, NavLink, Outlet} from "react-router-dom"
 import "./navbar.css"
+import { headingText } from "../common ui components/textConstatnt"
 function Navbar() {
   return (
     <>
@@ -8,7 +9,7 @@ function Navbar() {
             <div className="col">
                 <nav className="navbar navbar-expand bg-warning d-flex justify-content-between">
                     <Link to={'/'} className="text-decoration-none">
-                    <p className="text-white fw-bold ms-3 my-2"><i className="fa fa-mobile me-2"></i><span className="text-primary">Contact</span> <span className="text-white">Manager</span></p>
+                    <p className="text-white fw-bold ms-3 my-2"><i className="fa fa-mobile me-2"></i><span className="text-primary">{headingText.contact}</span> <span className="text-white">{headingText.manager}</span></p>
                     </Link>
                     <div className="row me-2">
                     <div className="col">

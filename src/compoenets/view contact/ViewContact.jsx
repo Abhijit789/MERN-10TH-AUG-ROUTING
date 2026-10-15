@@ -1,6 +1,7 @@
 import { useEffect, useState } from "react";
 import { Link, useParams } from "react-router-dom"
 import API from "../../axios configuration/axiosConfig";
+import Spinner from "../common ui components/Spinner";
 function ViewContact() {
     let[contact,setContact]=useState({
         name:"",
@@ -47,7 +48,7 @@ function ViewContact() {
         {/* <h2>Profile {id}</h2> */}
             <div className="container my-2">
                 {
-                    loading?"Loading....":<>
+                    loading?<Spinner/>:<>
                     <div className="row my-2">
                     <div className="col-6">
                         <img style={{height:"200px",width:"200px"}} src={contact.photo} className="img-fluid rounded-4" alt="img not found" />
